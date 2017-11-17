@@ -1,4 +1,3 @@
-# Repo-Demo STAT 184
 
 Yifei Deng
 The Pennsylvania University Park
