@@ -1,4 +1,9 @@
-# Repo-Demo-STAT184
+# Repo-Demo STAT 184
+
+Yifei Deng
+The Pennsylvania University Park
+Applid and Industrial Mathematics
+Class of 2018
 
 ## Welcome to GitHub Pages
 
